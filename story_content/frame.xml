@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="AS-TIC (Articulate Storyline with Static Fluid)" />
+              <option name="title_text" value="AS-TIC (Articulate Storyline with Static Fluid) " />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1201,7 +1201,8 @@
           <links>
             <slidelink slideid="_player.6ZOO2oQ3XZG.5bdLZCjsXj8" displaytext="Menu materi" expand="false" type="slide" />
             <slidelink slideid="_player.6ZOO2oQ3XZG.5dBGHN5TIcH" displaytext="Sebuah balok tenggelam pada kedalaman 3 m, massa jenis air 1000 kg/m³, konstanta gravitasi pada tempat tersebut adalah 10 m/s². Berapa besar tekanan hidrostatis yang dialami penyelam tersebut ?" expand="false" type="slide" />
-            <slidelink slideid="_player.6ZOO2oQ3XZG.6A2LMdl98yz" displaytext="Jika diketahui tekanan udara 1 × 10⁵ N/m²  dan g=10 m/s². Tentukan tekanan total di bawah permukaan danau pada kedalaman 30 cm! (ρf = 1000 kg/m³)" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZOO2oQ3XZG.6A2LMdl98yz" displaytext="Jika diketahui tekanan udara 1 × 10⁵ N/m²  dan g=10 m/s². Tentukan tekanan mutlak di bawah permukaan danau pada kedalaman 30 cm! (ρf = 1000 kg/m³)" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZOO2oQ3XZG.5um5VerSSl5" displaytext="Kamu memasukkan sebatang sedotan sepanjang  ke dalam segelas air. Kamu menempelkan salah satu jari tangan untuk menutup lubang atas sedotan itu, sehingga mengurung sejumlah udara di atas permukaan air [di dalam sedotan] namun sekaligus juga mencegah udara tambahan masuk ke dalam atau keluar dari sedotan, dan kemudian kamu mengangkat sedotan itu keluar dari air. Kamu akan melihat bahwa sedotan itu tetap berisi air; sebagian besar air yang semula berada di dalam sedotan tetap bertahan berada di sana. &#xA;Hal tersebut disebabkan tekanan udara di dalam ruang antara jari tangan dan permukaan air  ……………. tekanan atmosfer di luar sedotan. &#xA;Pilihlah jawaban yang tepat untuk mengisi titik-titik di atas? " expand="false" type="slide" />
             <slidelink slideid="_player.6ZOO2oQ3XZG.5n66hBKClw9" displaytext="Sebuah kursi berbentuk balok memiliki berat 500 N dan luas alas 0,25 m². Hitung tekanan yang diberikan balok tersebut pada permukaan!" expand="false" type="slide" />
             <slidelink slideid="_player.6ZOO2oQ3XZG.6qOOlWMmOhW" displaytext="Sebuah bejana berhungan diisi dengan air. Salah satu lengan bejana memiliki luas A1=20 cm², sedangkan lengan yang lainnya memiliki luas penampang A2=10 cm². Jika tinggi air di kedua lengan sama, berapakah perbandingan gaya yang bekerja pada dasar kedua lengan bejana? " expand="false" type="slide" />
             <slidelink slideid="_player.6ZOO2oQ3XZG.6nlE8g6baCw" displaytext="Diketahui sebuah benda memiliki volume 0,5 m³ tercelup seluruhnya ke dalam zat cair dan massa jenisnya 1500 kg/m³. Jika g=10 m/s² maka benda akan mengalami gaya ke atas sebesar?" expand="false" type="slide" />
@@ -1214,6 +1215,7 @@
             <slidelink slideid="_player.6ZOO2oQ3XZG.6Ygin0MNjB1" displaytext="Seorang penyelam berada di kedalaman 5 meter di bawah permukaan laut. Jika massa jenis air laut 1025 kg/m³ percepatan gravitasi 10 m/s². Berapa tekanan hidrostatis yang dialami oleh penyelam tersebut?" expand="false" type="slide" />
             <slidelink slideid="_player.6ZOO2oQ3XZG.5jVOo5lE8Ak" displaytext="jawaban latsol 1" expand="false" type="slide" />
             <slidelink slideid="_player.6ZOO2oQ3XZG.6RK28BA1PVA" displaytext="jawaban latsol 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZOO2oQ3XZG.5dP9lZmHrOH" displaytext="jawaban latsol 1" expand="false" type="slide" />
             <slidelink slideid="_player.6ZOO2oQ3XZG.6Wq5mv2avHn" displaytext="jawaban latsol 1" expand="false" type="slide" />
             <slidelink slideid="_player.6ZOO2oQ3XZG.6Q1pz0gyNQb" displaytext="jawaban latsol 1" expand="false" type="slide" />
             <slidelink slideid="_player.6ZOO2oQ3XZG.5dBixsblrKw" displaytext="jawaban latsol 1" expand="false" type="slide" />
